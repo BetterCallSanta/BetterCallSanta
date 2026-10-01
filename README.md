@@ -74,24 +74,3 @@ An AI-powered study workspace designed to analyze educational documents and tran
 ### Technologies Explored
 
 `Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `ChromaDB` `PyMuPDF` `LM Studio` `AI`
-
----
-
-## 🖥️ PC Egypt Search Engine
-
-A hardware search engine concept focused on finding PC components and prices from Egyptian computer stores.
-
-### Concept
-
-```text
-User Search
-     ↓
-Search Engine
-     ↓
-Supported Egyptian Stores
-     ↓
-Product Matching
-     ↓
-Price Comparison
-     ↓
-Original Store
